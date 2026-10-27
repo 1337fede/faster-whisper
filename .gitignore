@@ -1,3 +1,10 @@
+# Added Stuff
+/AAA_added/input/*
+!/AAA_added/input/.gitkeep
+/AAA_added/output/*
+!/AAA_added/output/.gitkeep
+
+
 # Byte-compiled / Optimized / DLL Files
 *.pyc
 *.pyo
